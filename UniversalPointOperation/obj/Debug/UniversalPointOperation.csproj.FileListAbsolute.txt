@@ -1,0 +1,10 @@
+D:\с#\UniversalPointOperation\UniversalPointOperation\bin\Debug\UniversalPointOperation.exe.config
+D:\с#\UniversalPointOperation\UniversalPointOperation\bin\Debug\UniversalPointOperation.exe
+D:\с#\UniversalPointOperation\UniversalPointOperation\bin\Debug\UniversalPointOperation.pdb
+D:\с#\UniversalPointOperation\UniversalPointOperation\obj\Debug\UniversalPointOperation.csprojResolveAssemblyReference.cache
+D:\с#\UniversalPointOperation\UniversalPointOperation\obj\Debug\UniversalPointOperation.MainForm.resources
+D:\с#\UniversalPointOperation\UniversalPointOperation\obj\Debug\UniversalPointOperation.Properties.Resources.resources
+D:\с#\UniversalPointOperation\UniversalPointOperation\obj\Debug\UniversalPointOperation.csproj.GenerateResource.Cache
+D:\с#\UniversalPointOperation\UniversalPointOperation\obj\Debug\UniversalPointOperation.csproj.CoreCompileInputs.cache
+D:\с#\UniversalPointOperation\UniversalPointOperation\obj\Debug\UniversalPointOperation.exe
+D:\с#\UniversalPointOperation\UniversalPointOperation\obj\Debug\UniversalPointOperation.pdb
